@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgmas_nomina_balcon=self.webpackChunkgmas_nomina_balcon||[]).push([[932,6612],{65665:(a,n,s)=>{s.r(n),s.d(n,{default:()=>l});s(9950);var e=s(4998),c=s(44414);const l=()=>(0,c.jsx)(e.default,{})}}]);

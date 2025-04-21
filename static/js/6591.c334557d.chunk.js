@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgmas_nomina_balcon=self.webpackChunkgmas_nomina_balcon||[]).push([[6591],{6591:(a,n,s)=>{s.r(n),s.d(n,{default:()=>c});s(9950);var e=s(44414);const c=()=>(0,e.jsx)(e.Fragment,{children:"This is HomePage."})}}]);
