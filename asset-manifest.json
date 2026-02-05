@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.769c4ebf.css",
-    "main.js": "/static/js/main.43b49176.js",
+    "main.js": "/static/js/main.8788dcff.js",
     "static/js/1385.84a94767.chunk.js": "/static/js/1385.84a94767.chunk.js",
     "static/js/9615.815f2600.chunk.js": "/static/js/9615.815f2600.chunk.js",
     "static/js/6917.a1ce60b9.chunk.js": "/static/js/6917.a1ce60b9.chunk.js",
@@ -20,7 +20,7 @@
     "static/js/7331.6ca48a1d.chunk.js": "/static/js/7331.6ca48a1d.chunk.js",
     "static/js/8295.79e13221.chunk.js": "/static/js/8295.79e13221.chunk.js",
     "static/css/7142.69bed7b8.chunk.css": "/static/css/7142.69bed7b8.chunk.css",
-    "static/js/7142.ed629e81.chunk.js": "/static/js/7142.ed629e81.chunk.js",
+    "static/js/7142.c456e717.chunk.js": "/static/js/7142.c456e717.chunk.js",
     "static/js/9683.1928f911.chunk.js": "/static/js/9683.1928f911.chunk.js",
     "static/js/2944.93550014.chunk.js": "/static/js/2944.93550014.chunk.js",
     "static/css/7645.7c5fd0f3.chunk.css": "/static/css/7645.7c5fd0f3.chunk.css",
@@ -72,16 +72,16 @@
     "static/js/6705.45b61c18.chunk.js": "/static/js/6705.45b61c18.chunk.js",
     "static/js/6076.3d6c75c8.chunk.js": "/static/js/6076.3d6c75c8.chunk.js",
     "static/js/8521.d5586e43.chunk.js": "/static/js/8521.d5586e43.chunk.js",
-    "static/js/3196.da8b7639.chunk.js": "/static/js/3196.da8b7639.chunk.js",
+    "static/js/3196.9809d37d.chunk.js": "/static/js/3196.9809d37d.chunk.js",
     "static/js/2761.a6f04f60.chunk.js": "/static/js/2761.a6f04f60.chunk.js",
     "static/js/4600.a029b139.chunk.js": "/static/js/4600.a029b139.chunk.js",
     "static/js/2634.855e66ae.chunk.js": "/static/js/2634.855e66ae.chunk.js",
     "static/js/3680.564e094d.chunk.js": "/static/js/3680.564e094d.chunk.js",
-    "static/js/4998.be38b275.chunk.js": "/static/js/4998.be38b275.chunk.js",
+    "static/js/4998.8e37dbcb.chunk.js": "/static/js/4998.8e37dbcb.chunk.js",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.769c4ebf.css",
-    "static/js/main.43b49176.js"
+    "static/js/main.8788dcff.js"
   ]
 }
